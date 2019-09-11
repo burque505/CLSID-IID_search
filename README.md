@@ -11,3 +11,7 @@ Double-right-click to get the name on the clipboard;
 Double-click to get the value on the clipboard.
 
 That's it!
+
+Thanks to hfiref0x for responder_comdata.txt, used for the search data.
+Visit https://github.com/hfiref0x for more.
+
